@@ -20,12 +20,12 @@ h6{
 
 table{
   font-family: Calibri; 
-  color:white; 
+  color:black; 
   font-size: 11pt; 
   font-style: normal;
   font-weight: bold;
   text-align:; 
-  background-color: SlateBlue; 
+  background-color: #D8D8D8; 
   border-collapse: collapse; 
   border: 2px solid navy
 }
